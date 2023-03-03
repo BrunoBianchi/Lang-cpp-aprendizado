@@ -11,6 +11,10 @@ int main() {
    cout << a << endl;
    cout << fixed << setprecision(1) << b << endl ;
    cout << c << endl;
-   cout << d << endl;
+   cout << d << "\n";
+   cout << "a";
+    
+   system("pause");
+  
     return 0 ;
 }
